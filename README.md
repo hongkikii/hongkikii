@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**hongkikii/hongkikii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🙇🏻‍♀️ 안녕하세요! 백엔드 개발자 홍향미입니다.
+- 👩🏻‍🎓 **명지대학교 융합소프트웨어학부**에서 공부 중인 대학생입니다.
+- 🔭 현재 **JoA 앱 출시**에 대부분의 에너지를 쏟고 있습니다!
+- 🌱 **성장**을 위한 **경험**과 **변화**를 환영합니다.
+- 🎨 **더 나은 코드**를 위한 공부와 리팩토링을 좋아합니다.
+- ✍🏻 문제와 해결 방법을 **즉시 기록**하여, 순간의 가르침을 기억하려 합니다.
+- 👯‍♀️ 독립적으로 뛰어난 개인보다, **위대한 팀**을 위한 나의 역할을 쫓습니다.
+- 🥰 세상을 구경하고, 사람들의 마음을 관찰하며, 나의 행복을 찾아가는 중입니다.
+- 😄 주변에서는 이름 대신 '미미'로 더 잘 불립니다:)
+- ⚡ p.s 필라테스와 하이볼만 있다면 어디든 갈 수 있어!
